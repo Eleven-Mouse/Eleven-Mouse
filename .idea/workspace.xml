@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12a4989e-3b7c-4686-8d5e-9ec8a00c279c" name="更改" comment="chore(workflows): 添加内容写权限配置&#10;&#10;- 从工作流程中移除每日定时触发cron任务&#10;- 支持手动触发工作流程（workflow_dispatch）&#10;- 添加内容权限配置" />
+    <list default="true" id="12a4989e-3b7c-4686-8d5e-9ec8a00c279c" name="更改" comment="docs(readme): 更新README中的动图路径&#10;&#10;- 将动图路径从外部链接修改为本地路径&#10;- 使用了仓库内.github目录下的小伙伴.gif图片&#10;- 优化了README文件的资源引用方式">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776654921258</updated>
-      <workItem from="1776654923209" duration="1332000" />
+      <workItem from="1776654923209" duration="2502000" />
     </task>
     <task id="LOCAL-00001" summary="chore(ci): 添加 GitHub Action 生成贡献图形象棋蛇&#10;&#10;- 配置每日定时（UTC 0点）自动运行工作流&#10;- 支持手动触发贡献图生成任务&#10;- 使用 Platane/snk/svg-only 生成贡献图 SVG 文件（含暗色主题）&#10;- 通过 ghaction-github-pages 自动推送生成文件到 output 分支&#10;&#10;docs(readme): 添加详细项目介绍与个人技术栈&#10;&#10;- 用丰富的 Markdown 内容展示项目主题和开发者介绍&#10;- 展示技术栈徽章覆盖语言、框架与工具&#10;- 添加 GitHub 统计图表，实时反映贡献数据&#10;- 编写个人简介与开发哲学，体现个人特色与目标&#10;- 包含多样化视觉元素提升可读性与美观度&#10;&#10;chore(idea): 添加 IntelliJ IDEA 配置文件与忽略规则&#10;&#10;- 新增 .gitignore 忽略常用项目生成文件夹和本地配置&#10;- 添加 IntelliJ IDEA 模块配置文件 Eleven-Mouse.iml&#10;- 添加项目 misc.xml、modules.xml 配置，设置 JDK 版本和项目">
       <option name="closed" value="true" />
@@ -115,7 +118,39 @@
       <option name="project" value="LOCAL" />
       <updated>1776656356619</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="docs(readme): 美化并丰富项目介绍文档内容&#10;&#10;- 添加博客搭建和 webkettle 交流群徽章&#10;- 增加邮箱联系方式徽章&#10;- 替换项目标题和欢迎信息为动态打字效果&#10;- 补充个人简介、专长和职业现状说明&#10;- 展示详细技术栈徽章覆盖语言和框架&#10;- 列出多个开源项目链接&#10;- 添加个人技术笔记、博客和社交媒体链接&#10;- 加入贡献日历贪吃蛇游戏展示代码贡献情况&#10;- 优化排版布局，提升文档整体可读性和视觉效果">
+      <option name="closed" value="true" />
+      <created>1776656508129</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776656508129</updated>
+    </task>
+    <task id="LOCAL-00008" summary="docs(readme): 美化并丰富项目介绍文档内容&#10;&#10;- 添加博客搭建和 webkettle 交流群徽章&#10;- 增加邮箱联系方式徽章&#10;- 替换项目标题和欢迎信息为动态打字效果&#10;- 补充个人简介、专长和职业现状说明&#10;- 展示详细技术栈徽章覆盖语言和框架&#10;- 列出多个开源项目链接&#10;- 添加个人技术笔记、博客和社交媒体链接&#10;- 加入贡献日历贪吃蛇游戏展示代码贡献情况&#10;- 优化排版布局，提升文档整体可读性和视觉效果">
+      <option name="closed" value="true" />
+      <created>1776656515359</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1776656515359</updated>
+    </task>
+    <task id="LOCAL-00009" summary="gengxin">
+      <option name="closed" value="true" />
+      <created>1776657490179</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1776657490179</updated>
+    </task>
+    <task id="LOCAL-00010" summary="docs(readme): 更新README中的动图路径&#10;&#10;- 将动图路径从外部链接修改为本地路径&#10;- 使用了仓库内.github目录下的小伙伴.gif图片&#10;- 优化了README文件的资源引用方式">
+      <option name="closed" value="true" />
+      <created>1776657494813</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1776657494813</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +162,9 @@
     <MESSAGE value="docs(readme): 美化并丰富项目介绍文档内容&#10;&#10;- 添加博客搭建和webkettle交流群徽章&#10;- 增加邮箱联系方式徽章&#10;- 替换项目标题和欢迎信息为动态打字效果&#10;- 补充个人简介、专长和职业现状说明&#10;- 展示详细技术栈徽章覆盖语言和框架&#10;- 列出多个开源项目链接&#10;- 添加个人技术笔记、博客和社交媒体链接&#10;- 加入贡献日历贪吃蛇游戏展示代码贡献情况&#10;- 优化排版布局，提升文档整体可读性和视觉效果" />
     <MESSAGE value="chore(workflow): 添加每日自动生成GitHub蛇形图工作流&#10;&#10;- 在.github/workflows目录下新增snake.yml文件&#10;- 配置定时任务每天UTC 0点自动运行&#10;- 支持手动触发生成流程&#10;- 使用Platane/snk工具生成蛇形图及暗色版本&#10;- 利用ghaction-github-pages将生成文件发布到output分支" />
     <MESSAGE value="chore(workflows): 添加内容写权限配置&#10;&#10;- 从工作流程中移除每日定时触发cron任务&#10;- 支持手动触发工作流程（workflow_dispatch）&#10;- 添加内容权限配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore(workflows): 添加内容写权限配置&#10;&#10;- 从工作流程中移除每日定时触发cron任务&#10;- 支持手动触发工作流程（workflow_dispatch）&#10;- 添加内容权限配置" />
+    <MESSAGE value="docs(readme): 美化并丰富项目介绍文档内容&#10;&#10;- 添加博客搭建和 webkettle 交流群徽章&#10;- 增加邮箱联系方式徽章&#10;- 替换项目标题和欢迎信息为动态打字效果&#10;- 补充个人简介、专长和职业现状说明&#10;- 展示详细技术栈徽章覆盖语言和框架&#10;- 列出多个开源项目链接&#10;- 添加个人技术笔记、博客和社交媒体链接&#10;- 加入贡献日历贪吃蛇游戏展示代码贡献情况&#10;- 优化排版布局，提升文档整体可读性和视觉效果" />
+    <MESSAGE value="gengxin" />
+    <MESSAGE value="docs(readme): 更新README中的动图路径&#10;&#10;- 将动图路径从外部链接修改为本地路径&#10;- 使用了仓库内.github目录下的小伙伴.gif图片&#10;- 优化了README文件的资源引用方式" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs(readme): 更新README中的动图路径&#10;&#10;- 将动图路径从外部链接修改为本地路径&#10;- 使用了仓库内.github目录下的小伙伴.gif图片&#10;- 优化了README文件的资源引用方式" />
   </component>
 </project>
