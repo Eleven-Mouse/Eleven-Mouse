@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12a4989e-3b7c-4686-8d5e-9ec8a00c279c" name="更改" comment="docs(readme): 美化并丰富项目介绍文档内容&#10;&#10;- 添加动态打字效果展示欢迎信息&#10;- 增加个人链接徽章（GitHub、博客、Bilibili）&#10;- 补充个人简介和专长说明&#10;- 明确职业目标和愿景&#10;- 添加统计信息展示代码贡献和语言使用情况&#10;- 提供联系方式和互动方式&#10;- 美化布局，提升整体可读性与视觉效果" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Eleven-Mouse"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Eleven-Mouse/Eleven-Mouse.git",
+    "accountId": "81371519-6097-48a9-a6cc-fff59b1f0102"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3CbWnpqWEZMipXwvcVc9xVbFcTM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Environment/Maven仓库",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="12a4989e-3b7c-4686-8d5e-9ec8a00c279c" name="更改" comment="" />
+      <created>1776654921258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776654921258</updated>
+      <workItem from="1776654923209" duration="1007000" />
+    </task>
+    <task id="LOCAL-00001" summary="chore(ci): 添加 GitHub Action 生成贡献图形象棋蛇&#10;&#10;- 配置每日定时（UTC 0点）自动运行工作流&#10;- 支持手动触发贡献图生成任务&#10;- 使用 Platane/snk/svg-only 生成贡献图 SVG 文件（含暗色主题）&#10;- 通过 ghaction-github-pages 自动推送生成文件到 output 分支&#10;&#10;docs(readme): 添加详细项目介绍与个人技术栈&#10;&#10;- 用丰富的 Markdown 内容展示项目主题和开发者介绍&#10;- 展示技术栈徽章覆盖语言、框架与工具&#10;- 添加 GitHub 统计图表，实时反映贡献数据&#10;- 编写个人简介与开发哲学，体现个人特色与目标&#10;- 包含多样化视觉元素提升可读性与美观度&#10;&#10;chore(idea): 添加 IntelliJ IDEA 配置文件与忽略规则&#10;&#10;- 新增 .gitignore 忽略常用项目生成文件夹和本地配置&#10;- 添加 IntelliJ IDEA 模块配置文件 Eleven-Mouse.iml&#10;- 添加项目 misc.xml、modules.xml 配置，设置 JDK 版本和项目">
+      <option name="closed" value="true" />
+      <created>1776654943962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776654943962</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docs(readme): 美化并丰富项目介绍文档内容&#10;&#10;- 添加动态打字效果展示欢迎信息&#10;- 增加个人链接徽章（GitHub、博客、Bilibili）&#10;- 补充个人简介和专长说明&#10;- 明确职业目标和愿景&#10;- 添加统计信息展示代码贡献和语言使用情况&#10;- 提供联系方式和互动方式&#10;- 美化布局，提升整体可读性与视觉效果">
+      <option name="closed" value="true" />
+      <created>1776655129040</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776655129040</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore(ci): 添加 GitHub Action 生成贡献图形象棋蛇&#10;&#10;- 配置每日定时（UTC 0点）自动运行工作流&#10;- 支持手动触发贡献图生成任务&#10;- 使用 Platane/snk/svg-only 生成贡献图 SVG 文件（含暗色主题）&#10;- 通过 ghaction-github-pages 自动推送生成文件到 output 分支&#10;&#10;docs(readme): 添加详细项目介绍与个人技术栈&#10;&#10;- 用丰富的 Markdown 内容展示项目主题和开发者介绍&#10;- 展示技术栈徽章覆盖语言、框架与工具&#10;- 添加 GitHub 统计图表，实时反映贡献数据&#10;- 编写个人简介与开发哲学，体现个人特色与目标&#10;- 包含多样化视觉元素提升可读性与美观度&#10;&#10;chore(idea): 添加 IntelliJ IDEA 配置文件与忽略规则&#10;&#10;- 新增 .gitignore 忽略常用项目生成文件夹和本地配置&#10;- 添加 IntelliJ IDEA 模块配置文件 Eleven-Mouse.iml&#10;- 添加项目 misc.xml、modules.xml 配置，设置 JDK 版本和项目" />
+    <MESSAGE value="docs(readme): 美化并丰富项目介绍文档内容&#10;&#10;- 添加动态打字效果展示欢迎信息&#10;- 增加个人链接徽章（GitHub、博客、Bilibili）&#10;- 补充个人简介和专长说明&#10;- 明确职业目标和愿景&#10;- 添加统计信息展示代码贡献和语言使用情况&#10;- 提供联系方式和互动方式&#10;- 美化布局，提升整体可读性与视觉效果" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs(readme): 美化并丰富项目介绍文档内容&#10;&#10;- 添加动态打字效果展示欢迎信息&#10;- 增加个人链接徽章（GitHub、博客、Bilibili）&#10;- 补充个人简介和专长说明&#10;- 明确职业目标和愿景&#10;- 添加统计信息展示代码贡献和语言使用情况&#10;- 提供联系方式和互动方式&#10;- 美化布局，提升整体可读性与视觉效果" />
+  </component>
+</project>
