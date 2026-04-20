@@ -1,6 +1,24 @@
-## Hello GitHub Fans 👋
+## Hello World! 👋
 
 <img align="right" alt="GIF" src=".github/小伙伴.gif" />
+
+
+
+### 关于我
+
+> `ERROR 404` — 社交生活未找到。正在用代码填补中...
+>
+> *有 bug？那不叫 bug，那叫 feature。*
+>
+> *"这个 PR 怎么只改了一行？" — 别问，问就是重构。*### 🧪 AI Lab
+
+把 LLM 当实验室 — 调 prompt、做 agent、
+探索 AI 能力的边界
+
+*"让 AI 干活，我负责想"*
+-  喜欢做没人要求但可能有人需要的小工具
+
+    *"如果工具不存在，就自己造一个"*
 
 ### I'm eleven-mouse
 
@@ -22,10 +40,7 @@
 
 
 
-### 关于我
 
-
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 
 <picture>
@@ -34,4 +49,11 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Eleven-Mouse/Eleven-Mouse/output/github-snake.svg" />
 </picture>
 
+### 🌙 Night Owl
+
+凌晨两点还在读文档，声称"随便看看"
+
+*bug 总在深夜被修复*
+
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 ⭐️ From [Eleven-Mouse](https://github.com/Eleven-Mouse)
