@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src=".github/小伙伴.gif" />
 
 ### I'm eleven-mouse
 
