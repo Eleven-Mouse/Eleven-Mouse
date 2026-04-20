@@ -29,9 +29,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoeyBling/Eleven-Mouse/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoeyBling/Eleven-Mouse/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JoeyBling/Eleven-Mouse/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eleven-Mouse/Eleven-Mouse/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eleven-Mouse/Eleven-Mouse/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Eleven-Mouse/Eleven-Mouse/output/github-snake.svg" />
 </picture>
 
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
+⭐️ From [Eleven-Mouse](https://github.com/Eleven-Mouse)
