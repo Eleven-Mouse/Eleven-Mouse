@@ -21,7 +21,7 @@
 
 
 
-### 🛠 技术栈 | Tech Stack
+### 🛠 Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB)
